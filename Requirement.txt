@@ -1,3 +1,6 @@
-pandas
-numpy
-scikit-learn
+->pandas
+->numpy
+->scikit-learn
+->Python 3.11
+->ibm-watsonx-ai package
+->IBM Cloud account with Watsonx credentials
