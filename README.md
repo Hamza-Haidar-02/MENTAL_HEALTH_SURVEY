@@ -11,38 +11,6 @@ This project is based on a mental health survey dataset containing responses fro
 mental_health_consequence
 (Will there be negative consequences if the respondent discusses a mental health issue at work?)
 
-#🧾 Input Features
-
-Column Name	               Description
-
-Timestamp	                 Date and time of the response
-
-Age                    	   Age of the respondent
-Gender	                   Gender identity
-Country	                   Country of residence
-State	                     U.S. state (if applicable)
-Self_employed	             Whether the respondent is self-employed
-Family_history	           Family history of mental illness
-Treatment	                 Whether they have sought treatment for mental health
-Work_interfere         	   How mental health affects work performance
-No_employees	             Company size
-Remote_work	               Whether they work remotely
-Tech_company          	   Whether they work in a tech company
-Benefits              	   Whether mental health benefits are provided
-Care_options	             Availability of mental health care options
-Wellness_program	         Workplace wellness programs
-Seek_help	                 Ease of accessing mental health support
-Anonymity	                 Anonymity provided by the company
-Leave	                     Policies for mental health-related leave
-Phys_health_consequence	   Physical health consequence for discussing issues
-Coworkers	                 Comfort level discussing mental health with coworkers
-Supervisor	               Comfort level discussing with supervisor
-Mental_health_interview	   Comfort in discussing mental health in interviews
-Phys_health_interview	     Comfort in discussing physical health in interviews
-Mental_vs_physical	       Perceived importance: mental vs physical health
-Obs_consequence	           Observed consequences of discussing mental health
-Comments	                 Open-text comments (excluded from training)
-
 #🎯 Project Goals
 
 The objective of this notebook is to:
