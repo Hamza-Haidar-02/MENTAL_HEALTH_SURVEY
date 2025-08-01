@@ -14,7 +14,9 @@ mental_health_consequence
 #🧾 Input Features
 
 Column Name	               Description
+
 Timestamp	                 Date and time of the response
+
 Age                    	   Age of the respondent
 Gender	                   Gender identity
 Country	                   Country of residence
